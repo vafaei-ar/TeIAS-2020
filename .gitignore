@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 trash/
+presentation/data_science.pptx
 
 # Distribution / packaging
 .Python
