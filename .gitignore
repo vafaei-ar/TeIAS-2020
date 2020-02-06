@@ -8,6 +8,7 @@ __pycache__/
 
 trash/
 presentation/data_science.pptx
+presentation/data_science.odp
 
 # Distribution / packaging
 .Python
