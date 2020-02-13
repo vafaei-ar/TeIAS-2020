@@ -13,3 +13,6 @@ Tehran Institute for Advanced Studies - Data Science Winter School - 2020
 
 - [exercise.ipynb](https://github.com/vafaei-ar/TeIAS-2020/blob/master/notebooks/exercise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/TeIAS-2020/blob/master/notebooks/exercise.ipynb)
 
+Please submit your reports/notebooks [here](https://forms.gle/aKY2uytqFoH6D46y9).
+
+
